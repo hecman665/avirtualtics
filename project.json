@@ -1,0 +1,91 @@
+{
+  "title": "Encuadre",
+  "author": "Héctor Manuel Castillo Gómez (Profesor)",
+  "school": "Escuela Preparatoria Regional de El Salto (El Salto)",
+  "date": "17/2/20",
+  "langCodes": [
+    "es"
+  ],
+  "languages": {
+    "es": "español"
+  },
+  "areas": {
+    "es": "Informática"
+  },
+  "levels": {
+    "es": "Bachillerato General por Competencias"
+  },
+  "description": {
+    "es": "Encuadre del curso Tecnologías de la Información I"
+  },
+  "meta_langs": [
+    "es"
+  ],
+  "mainFile": "Encuadre V3.jclic",
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "files": [
+    "Encuadre V3.jclic",
+    "Encuadre V3.jclic.js",
+    "_home_carl_escritorio_atributo56.png",
+    "actitud.png",
+    "agnus.png",
+    "alimentos.png",
+    "anonymous_pen_pencil_32.png",
+    "atributo45.png",
+    "atributo52.png",
+    "atributo56.png",
+    "atributo61.png",
+    "atributo83.png",
+    "audifonos.png",
+    "autoevaluacion.png",
+    "barretr_pencil2.png",
+    "book11.png",
+    "coevaluacion.png",
+    "corrector.jpg",
+    "curso2.gif",
+    "dp.png",
+    "duolingo.png",
+    "eraser.png",
+    "evaluation.jpg",
+    "examenes.png",
+    "favicon.ico",
+    "feutre_marqueur.png",
+    "glue_stick.png",
+    "gmail2.jpg",
+    "headphones_silhouette.png",
+    "icon-192.png",
+    "icon-72.png",
+    "imsmanifest.xml",
+    "index.html",
+    "libreta2.png",
+    "libro.png",
+    "librotexto.png",
+    "normatividad.jpg",
+    "orden.png",
+    "originalidad.png",
+    "pitr_scissors_closed_icon.png",
+    "plataformas.png",
+    "portada.png",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json",
+    "proyectos.png",
+    "puntualidad.png",
+    "resources.png",
+    "siiau2.jpg",
+    "skills.png",
+    "spiral_notebook.png",
+    "syllabus.png",
+    "tutorias.png",
+    "udgbiblio.png",
+    "unidad1.png",
+    "unidad2.png",
+    "unidad3.png",
+    "unidad4.png",
+    "usabilidad.png",
+    "usb.png",
+    "usb_stick.png",
+    "utiles.png"
+  ]
+}
